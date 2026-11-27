@@ -1,4 +1,4 @@
-# shamilckl.in portfolio
+
 Static site (HTML, CSS, JS). No build step.
 
 Deploy: upload this whole folder to GitHub Pages, Netlify, Vercel or Cloudflare Pages
